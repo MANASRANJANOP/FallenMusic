@@ -1,17 +1,17 @@
 <p align="center">
-    <br><b>😫 BROKEN MUSIC </b><br>
+    <br><b>😫 TWINKLE MUSIC </b><br>
 </p>
-<p align="center"><a href="https://t.me/BrokenXdMusic"><img src="https://telegra.ph//file/fadf1a9b3ac409ecc7726.jpg"></a></p>
+<p align="center"><a href="https://t.me/MusicChitChat"><img src="https://telegra.ph//file/231a15a2c6cd698a2e362.jpg"></a></p>
 
-Broken Music is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
+TWINKLE MUSIC is a Telegram Bot project that allows you to play music on Telegram through Telegram Voice Chat Feature</b><br>
 
 <p align="center">
     <img src="https://img.shields.io/github/stars/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/watchers/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Watchers">
     <img src="https://img.shields.io/github/license/AnonymousR1025/FallenMusic?style=for-the-badge" alt="LICENSE">
-    <img src="https://img.shields.io/github/commit-activity/w/MANASRANJANOP/BROKENMUSIC?style=for-the-badge" alt="Commit Activity">
-    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/MANASRANJANOP"> <img src="https://img.shields.io/github/last-commit/AnonymousR1025/FallenMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <img src="https://img.shields.io/github/commit-activity/w/MANASRANJANOP/TWINKLEMUSIC?style=for-the-badge" alt="Commit Activity">
+    <a href="https://github.com/AnonymousR1025/FallenMusic/commits/MANASRANJANOP"> <img src="https://img.shields.io/github/last-commit/MANASRANJANOP/TWINKLEMUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
     <img src="https://img.shields.io/github/contributors/AnonymousR1025/FallenMusic?style=for-the-badge" alt="Contributors">
     <a href="https://github.com/MANASRANJANOP/FallenMusic/issues"> <img src="https://img.shields.io/github/issues/AnonymousR1025/FallenMusic?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/AnonymousR1025/FallenMusic"> <img src="https://img.shields.io/github/repo-size/AnonymousR1025/FallenMusic?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
